@@ -4,7 +4,7 @@ while True:
 
     print("\nMenu")
     print("1 - Adicionar itens a lista: ")
-    print("2 - remover itens da lista: ")
+    print("2 - Remover itens da lista: ")
     print("3 - Exibir lista de compras: ")
     print("4 - Sair")
 
